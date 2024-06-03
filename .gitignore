@@ -1,0 +1,13 @@
+*.o
+*.out
+*.exe
+*.txt
+test.c
+nfstop
+nfsd
+nfs
+
+
+# Added by cargo
+
+/target
